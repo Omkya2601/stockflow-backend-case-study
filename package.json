@@ -1,0 +1,13 @@
+{
+  "name": "stockflow-backend-case-study",
+  "version": "1.0.0",
+  "description": "Backend case study for BYNRY internship",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.0"
+  }
+}
