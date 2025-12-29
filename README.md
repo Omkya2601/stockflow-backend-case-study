@@ -122,36 +122,5 @@ GET /api/companies/:companyId/alerts/low-stock
   "total_alerts": 1
 }
 
-Technology Stack
 
-Node.js
 
-Express.js
-
-RESTful API Design
-
-SQL-based relational database (assumed)
-
-Git & GitHub for version control
-
- Notes
-
-The original case study was provided as a Google Document.
-
-Since the submission form required a GitHub repository, all explanations and solutions have been consolidated here.
-
-Assumptions were made where requirements were incomplete and have been documented above.
-
- Conclusion
-
-This submission demonstrates:
-
-Backend engineering fundamentals
-
-Thoughtful database design
-
-API design aligned with business requirements
-
-Ability to reason through incomplete specifications
-
-Returns low-stock alerts for products with recent sales activity.
